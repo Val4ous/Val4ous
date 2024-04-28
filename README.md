@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Val4ous
-- 👀 I’m interested in making site and games
+- 👀 I’m interested in making sites and games
 - 🌱 I’m currently learning C-sharp
 - 💞️ I’m looking to collaborate on site developers
 - 📫 How to reach me 4aostv@gmail.com
